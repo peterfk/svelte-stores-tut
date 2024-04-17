@@ -13,6 +13,7 @@
   });
 </script>
 
+<!-- Main App page -->
 <h1>The count is {$count}</h1>
 
 <Incrementer />
